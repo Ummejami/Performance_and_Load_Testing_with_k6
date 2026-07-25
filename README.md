@@ -101,8 +101,8 @@ Task2_summary.html
 ```
 k6-performance-testing/
 │
-├── Task1.js
-├── Task2.js
+├── Task1_script.js
+├── Task2_script.js
 │  
 │
 │
@@ -133,13 +133,13 @@ export function handleSummary(data) {
 ## Task 1
 
 ```bash
-k6 run Task1.js
+k6 run Task1_script.js
 ```
 
 ## Task 2
 
 ```bash
-k6 run Task2.js
+k6 run Task2_script.js
 ```
 
 ---
