@@ -95,7 +95,13 @@ Task2_summary.html
 ```
 
 ---
+## Summary Report Screenshot
 
+![Task 1 Summary Report](./Screenshot/Task1(1).png)
+![Task 1 Summary Report](./Screenshot/Task1(2).png)
+![Task 1 Summary Report](./Screenshot/Task1(3).png)
+![Task 1 Summary Report](./Screenshot/Task1(4).png)
+![Task 1 Summary Report](./Screenshot/Task1(5).png)
 # Project Structure
 
 ```
