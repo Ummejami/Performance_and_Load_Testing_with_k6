@@ -55,7 +55,9 @@ Automated performance testing of the Daily Finance APIs.
 ![Task 1 Summary Report](./Screenshot/Task1(3).png)
 ![Task 1 Summary Report](./Screenshot/Task1(4).png)
 ![Task 1 Summary Report](./Screenshot/Task1(5).png)
+## Demo Video
 
+[![Watch the demo video](https://img.youtube.com/vi/c6d4680f-0785-47cb-92a8-79cf54beb751/0.jpg)](https://github.com/user-attachments/assets/c6d4680f-0785-47cb-92a8-79cf54beb751)
 # Question 2: DemoQA BookStore Performance Test
 
 Performance testing of the DemoQA BookStore API using a staged load pattern.
